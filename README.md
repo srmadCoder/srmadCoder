@@ -8,23 +8,23 @@
 ---
 
 ## 🚀 About Me
-- 📱 Mobile App Developer using **Flutter**
-- 🤖 AI & Machine Learning Enthusiast
-- 🔬 Focused on image classification & deep learning
-- 🎨 UI/UX lover — crafting clean & modern designs
-- 💡 Always exploring new technologies
+- 📱 Mobile App Developer using **Flutter**  
+- 🤖 AI & Machine Learning Enthusiast  
+- 🔬 Focused on image classification & deep learning  
+- 🎨 UI/UX lover — crafting clean & modern designs  
+- 💡 Always exploring new technologies  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 </p>
 
 ---
@@ -32,8 +32,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=srmadCoder&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmadCoder&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/srmadCoder">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=srmadCoder&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/srmadCoder">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmadCoder&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 
 ---
@@ -46,19 +50,21 @@
 ---
 
 ## 🧩 Featured Skills
-- Flutter UI/UX & custom widgets  
-- AI-powered mobile apps (TFLite & TensorFlow)  
-- Model training, evaluation & fine-tuning  
-- Clean architecture & scalable app design  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter_UI-UX-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Powered_Apps-TFLite-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model_Training-Fine-tuning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-Scalable-green?style=for-the-badge" />
+</p>
 
 ---
 
-## 📂 Projects (Coming Soon)
+## 📂 Projects (Interactive Cards)
 <p align="center">
-  <img src="https://img.shields.io/badge/Skin_Disease_Detection-Flutter_TFLite-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Image_Classification-App-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Assistant-Flutter-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Custom_Widgets_Library-Dart-green?style=for-the-badge" />
+  <a href="#"><img src="https://img.shields.io/badge/Skin_Disease_Detection-Flutter_TFLite-blue?style=for-the-badge&logo=flutter" title="Skin Disease Detection" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Image_Classification-App-orange?style=for-the-badge&logo=python" title="Image Classification App" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI_Assistant-Flutter-purple?style=for-the-badge&logo=flutter" title="AI Assistant App" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Custom_Widgets_Library-Dart-green?style=for-the-badge&logo=dart" title="Custom Widgets Library" /></a>
 </p>
 
 ---
