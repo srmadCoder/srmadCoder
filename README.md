@@ -10,29 +10,22 @@
 ## 🚀 About Me
 - 📱 Mobile App Developer using **Flutter**
 - 🤖 AI & Machine Learning Enthusiast
-- 🔬 Interested in image classification & deep learning
-- 🎨 UI/UX lover — building clean & modern designs
-- 💡 Always learning something new
+- 🔬 Focused on image classification & deep learning
+- 🎨 UI/UX lover — crafting clean & modern designs
+- 💡 Always exploring new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Mobile Development**
-- Flutter  
-- Dart  
-
-### **AI / Machine Learning**
-- TensorFlow / TFLite  
-- Python  
-- CNN models  
-- Data preprocessing & augmentation  
-
-### **Tools**
-- Firebase  
-- Git & GitHub  
-- Android Studio  
-- VS Code  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -40,9 +33,6 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=srmadCoder&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmadCoder&layout=compact&theme=tokyonight" />
 </p>
 
@@ -56,23 +46,29 @@
 ---
 
 ## 🧩 Featured Skills
-- Flutter UI/UX  
-- AI-powered mobile applications  
-- Model training and fine-tuning  
-- Clean architecture & scalable design  
+- Flutter UI/UX & custom widgets  
+- AI-powered mobile apps (TFLite & TensorFlow)  
+- Model training, evaluation & fine-tuning  
+- Clean architecture & scalable app design  
 
 ---
 
 ## 📂 Projects (Coming Soon)
-- 🔬 Skin disease detection (Flutter + TFLite)  
-- 📸 Image classification app  
-- 🤖 AI-powered assistant app  
-- 📱 Custom Flutter widgets library  
+<p align="center">
+  <img src="https://img.shields.io/badge/Skin_Disease_Detection-Flutter_TFLite-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Image_Classification-App-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Assistant-Flutter-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Custom_Widgets_Library-Dart-green?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-(Add your links here when ready)
+<p align="center">
+  <a href="https://github.com/srmadCoder" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
